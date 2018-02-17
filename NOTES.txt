@@ -2,4 +2,4 @@ Local documentation:
     rustup doc
 
 Last read:
-file:///C:/Users/gabr/.rustup/toolchains/stable-x86_64-pc-windows-msvc/share/doc/rust/html/book/first-edition/getting-started.html
+file:///C:/Users/gabr/.rustup/toolchains/stable-x86_64-pc-windows-msvc/share/doc/rust/html/book/first-edition/drop.html
