@@ -1,0 +1,11 @@
+[features]
+foo = []
+
+[package]
+name = "conditional"
+version = "0.1.0"
+authors = ["gabr <arkadiuszgabrys@gmail.com>"]
+
+[dependencies]
+
+
